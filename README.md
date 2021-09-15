@@ -38,7 +38,7 @@
 
 |   Concept   |         Description or short answer         |
 |     ---     |                     ---                     |
-|What is the purpose of having different environments?     |(enter description or short answer here)|
+|What is the purpose of having different environments?     |different environments are used for different purposes/projects|
 |What is the default package manager in Python?            |(enter description or short answer here)|
 |How do you manage environments and packages in Anaconda?  |(enter description or short answer here)|
 |`conda list`       |(enter description or short answer here)|
